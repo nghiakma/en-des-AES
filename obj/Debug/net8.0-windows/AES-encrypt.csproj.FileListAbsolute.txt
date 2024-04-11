@@ -1,0 +1,15 @@
+D:\VIDEO\AES-encrypt\bin\Debug\net8.0-windows\AES-encrypt.exe
+D:\VIDEO\AES-encrypt\bin\Debug\net8.0-windows\AES-encrypt.deps.json
+D:\VIDEO\AES-encrypt\bin\Debug\net8.0-windows\AES-encrypt.runtimeconfig.json
+D:\VIDEO\AES-encrypt\bin\Debug\net8.0-windows\AES-encrypt.dll
+D:\VIDEO\AES-encrypt\bin\Debug\net8.0-windows\AES-encrypt.pdb
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.AssemblyInfoInputs.cache
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.AssemblyInfo.cs
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.csproj.CoreCompileInputs.cache
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.sourcelink.json
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.dll
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\refint\AES-encrypt.dll
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.pdb
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\AES-encrypt.genruntimeconfig.cache
+D:\VIDEO\AES-encrypt\obj\Debug\net8.0-windows\ref\AES-encrypt.dll
